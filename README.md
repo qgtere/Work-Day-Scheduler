@@ -49,5 +49,5 @@
 
   ## Link to the application
 
-  * [Try the calendar here!](https://)
+  * [Try the calendar here!](https://qgtere.github.io/Work-Day-Scheduler/)
 
